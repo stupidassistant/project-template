@@ -1,0 +1,1 @@
+declare function handleRequest(st: string, f: Function): string;

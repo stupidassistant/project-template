@@ -1,0 +1,31 @@
+{
+  "get weather": [
+    "what is the local weather",
+    "what is the weather now",
+    "get the weather",
+    "what is the weather"
+  ],
+  "get weather <location>": [
+    "what is the weather at <location>",
+    "what is the weather in <location>",
+    "what is the weather at <location> now",
+    "get the weather in <location>",
+    "what is the weather in <location>",
+    "what is the weather at <location>"
+  ],
+  "get weather <duration>": [
+    "weather in <duration>",
+    "what is the weather in <duration>",
+    "get the weather in <duration>"
+  ],
+  "get weather <location> <duration>": [
+    "weather in <location> at <duration>",
+    "weather in <duration> at <location>",
+    "what is the weather in <location> at <duration>",
+    "what is the weather in <duration> at <location>",
+    "get the weather in <location> at <duration>",
+    "get the weather in <duration> at <location>",
+    "get weather in <location> at <duration>",
+    "get weather in <duration> at <location>"
+  ]
+}

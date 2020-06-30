@@ -1,0 +1,11 @@
+{
+  "name": "languages",
+  "organisationId": "stupid-assistant",
+  "type": "list",
+  "contents": [
+    "german",
+    "english",
+    "french",
+    "spanish"
+  ]
+}
